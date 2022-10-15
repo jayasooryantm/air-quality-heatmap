@@ -1,0 +1,329 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1523644443757686,
+                    52.19242761257672
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 36,
+                "PM25_cs1": 5,
+                "PM10_cs1": 12,
+                "PM10(ppm)_am2": 29,
+                "PM2.5(ppm)_am2": 3,
+                "NO2_cno2": 59.67673
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1474896396651195,
+                    52.19281479713661
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 35,
+                "PM25_cs1": 6,
+                "PM10_cs1": 10,
+                "PM10(ppm)_am2": 26,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": 44.99416
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1434327891163849,
+                    52.193350253630456
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 10,
+                "PM25_cs1": 6,
+                "PM10_cs1": 9,
+                "PM10(ppm)_am2": 21,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": 66.42213
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1419376497452332,
+                    52.195003254932
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 0,
+                "PM25_cs1": 12,
+                "PM10_cs1": 12,
+                "PM10(ppm)_am2": 51,
+                "PM2.5(ppm)_am2": 3,
+                "NO2_cno2": 59.93981
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1393888821300019,
+                    52.19583675750498
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 13,
+                "PM25_cs1": 5,
+                "PM10_cs1": 8,
+                "PM10(ppm)_am2": 19,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": 43.89928
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1382740915813671,
+                    52.19672406577185
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 20,
+                "PM25_cs1": 3,
+                "PM10_cs1": 5,
+                "PM10(ppm)_am2": 53,
+                "PM2.5(ppm)_am2": 3,
+                "NO2_cno2": 74.67951
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1553315880656212,
+                    52.196244018597234
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 34,
+                "PM25_cs1": 13,
+                "PM10_cs1": 15,
+                "PM10(ppm)_am2": 21,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1480697733707373,
+                    52.19719591925233
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 19,
+                "PM25_cs1": 20,
+                "PM10_cs1": 24,
+                "PM10(ppm)_am2": 29,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.143806588358946,
+                    52.197875944479335
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 17,
+                "PM25_cs1": 8,
+                "PM10_cs1": 9,
+                "PM10(ppm)_am2": 8,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1409648810690652,
+                    52.1986352826782
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 14,
+                "PM25_cs1": 7,
+                "PM10_cs1": 7,
+                "PM10(ppm)_am2": 21,
+                "PM2.5(ppm)_am2": 3,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9036173476990964,
+                    51.88571883328934
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 26,
+                "PM25_cs1": 9,
+                "PM10_cs1": 11,
+                "PM10(ppm)_am2": 14,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9064709298931068,
+                    51.87876818568202
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 29,
+                "PM25_cs1": 11,
+                "PM10_cs1": 15,
+                "PM10(ppm)_am2": 27,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.908374138825488,
+                    51.87727033198446
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 42,
+                "PM25_cs1": 33,
+                "PM10_cs1": 33,
+                "PM10(ppm)_am2": 19,
+                "PM2.5(ppm)_am2": 2,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9086372140361166,
+                    51.86565745154013
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 24,
+                "PM25_cs1": 5,
+                "PM10_cs1": 11,
+                "PM10(ppm)_am2": 13,
+                "PM2.5(ppm)_am2": 3,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.899728067649093,
+                    51.88577753745178
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 28,
+                "PM25_cs1": 5,
+                "PM10_cs1": 9,
+                "PM10(ppm)_am2": 21,
+                "PM2.5(ppm)_am2": 4,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9009114826776904,
+                    51.87809070348288
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 21,
+                "PM25_cs1": 4,
+                "PM10_cs1": 7,
+                "PM10(ppm)_am2": 89,
+                "PM2.5(ppm)_am2": 6,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8982922843095533,
+                    51.87317318618642
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 14,
+                "PM25_cs1": 3,
+                "PM10_cs1": 5,
+                "PM10(ppm)_am2": 211,
+                "PM2.5(ppm)_am2": 10,
+                "NO2_cno2": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9016432469422004,
+                    51.86652604687782
+                ]
+            },
+            "properties": {
+                "NO2(ppm)_am2": 24,
+                "PM25_cs1": 3,
+                "PM10_cs1": 7,
+                "PM10(ppm)_am2": 46,
+                "PM2.5(ppm)_am2": 4,
+                "NO2_cno2": null
+            }
+        }
+    ]
+}

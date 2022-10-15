@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+<html>
+
+<head>
+    <title>Home</title>
+</head>
+
+<body>
+    {% block content %}
+    <br>
+    <div class="container h-100 p-5 text-bg-dark rounded-3">
+        <h2>Air Quality Research Project</h2>
+        <p>A research project based on quality of air around cities at different time and condition. Using a heatmap the
+            severity and the spread of the air pollution can be demonstrated.</p>
+        <button type="button" class="btn btn-outline-light" data-bs-toggle="popover" data-bs-title="Working on it..."
+            data-bs-content="Research paper will be added once officially published!!" data-bs-container="body">Research
+            Paper</button>
+    </div>
+
+    <div class="p-3"></div>
+
+    <div class="container">
+        {% include "accordion.html" %}
+    </div>
+
+
+    {% endblock %}
+</body>
+
+</html>
